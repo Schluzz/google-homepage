@@ -1,0 +1,1 @@
+This is an Odin Project excersize in which I will write my first HTML and CSS files. Git and Github will be used for CVS.
